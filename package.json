@@ -20,7 +20,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
-    "deploy": "aws s3 rm --recursive s3://learn-your-way/static && aws s3 sync build/ s3://learn-your-way"
+    "deploy": "aws s3 rm --recursive s3://learn-your-way.krishapps.in/static && aws s3 sync build/ s3://learn-your-way.krishapps.in/"
   },
   "eslintConfig": {
     "extends": [
