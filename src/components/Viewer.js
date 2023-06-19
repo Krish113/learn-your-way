@@ -5,7 +5,6 @@ import ContentList from "./ContentList";
 function Viewer() {
     return (
       <>
-        <div>Viewer Component</div>
         <Player />
         <ContentList />
       </>
