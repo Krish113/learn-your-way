@@ -19,7 +19,8 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "deploy": "aws s3 sync build/ s3://learn-your-way"
+    "predeploy": "npm run build",
+    "deploy": "aws s3 rm --recursive s3://learn-your-way/static && aws s3 sync build/ s3://learn-your-way"
   },
   "eslintConfig": {
     "extends": [
