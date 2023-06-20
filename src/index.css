@@ -12,6 +12,10 @@ code {
     monospace;
 }
 
+.link {
+  text-decoration: none;
+}
+
 :root {
   --color-primary: #0069e0;
   --color-primary-light: #c7e0fd;

@@ -11,7 +11,7 @@ function Home() {
         <Row className="justify-content-center">
           {courses.map((course, i) => (
             <Col key={i} xs={12} sm={12} md={6} lg={4} xl={3}>
-              <Link to={"viewer/" + course.slug}>
+              <Link className="link" to={"viewer/" + course.slug}>
                 <Card className="course-card">
                   <Card.Img variant="top" src={course.thumbnail} />
                   <Card.Body>

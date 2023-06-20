@@ -12,7 +12,7 @@ function ContentPlayer({ content }) {
   return (
     <Player
       autoPlay
-      src="https://d1e3n3ct49jsgv.cloudfront.net/beginning-accoustic-guitar/01_01_welcome.mp4"
+      src={content.url}
     >
       <BigPlayButton position="center" />
       <ControlBar autoHide={true}>

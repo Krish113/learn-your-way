@@ -43,7 +43,10 @@ function Viewer() {
             <ContentPlayer content={currentContent} />
           </Col>
           <Col xs={12} sm={12} md={12} lg={4} xl={4}>
-            <ContentList contentList={course.contents} />
+            <ContentList
+              contentList={course.contents}
+              setCurrentContent={setCurrentContent}
+            />
           </Col>
         </Row>
       </Container>
