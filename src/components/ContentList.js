@@ -1,9 +1,20 @@
 import "./ContentList.css";
+import { ListGroup, Card } from "react-bootstrap";
 
-function ContentList() {
+function ContentList({ contentList }) {
   return (
     <>
-      <div>ContentList Component</div>
+      <ListGroup>
+        {contentList.map((content, i) => (
+          <ListGroup.Item key={i}>
+            <Card className="content-list-item-container">
+              <Card.Body>
+                <Card.Title>{content.title}</Card.Title>
+              </Card.Body>
+            </Card>
+          </ListGroup.Item>
+        ))}
+      </ListGroup>
     </>
   );
 }
