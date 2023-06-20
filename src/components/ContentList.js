@@ -2,10 +2,7 @@ import "./ContentList.css";
 import { Link } from "react-router-dom";
 import { ListGroup, Card } from "react-bootstrap";
 
-function ContentList({
-  contentList,
-  setCurrentContent,
-}) {
+function ContentList({ contentList, currentContent, setCurrentContent }) {
   return (
     <>
       <ListGroup>
@@ -16,7 +13,11 @@ function ContentList({
               to={content.slug}
               onClick={() => setCurrentContent(content)}
             >
-              <Card className="content-list-item-container">
+              <Card
+                className={`content-list-item-container${
+                  content.slug === currentContent.slug ? " active" : ""
+                }`}
+              >
                 <Card.Body>
                   <Card.Title>{content.title}</Card.Title>
                 </Card.Body>

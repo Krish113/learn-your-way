@@ -45,6 +45,7 @@ function Viewer() {
           <Col xs={12} sm={12} md={12} lg={4} xl={4}>
             <ContentList
               contentList={course.contents}
+              currentContent={currentContent}
               setCurrentContent={setCurrentContent}
             />
           </Col>
