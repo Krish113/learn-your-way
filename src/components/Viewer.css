@@ -1,6 +1,10 @@
 .course-name {
-    color: var(--color-primary);
-    font-size: 1.8rem;
-    font-weight: 500;
-    margin-bottom: 1.5rem;
+  color: var(--color-primary);
+  font-size: 1.8rem;
+  font-weight: 500;
+  margin-bottom: 1rem;
+  width: fit-content;
+  padding: 0.3rem 0.7rem;
+  border: 2px solid var(--color-primary-light);
+  border-radius: 0.7rem 0;
 }

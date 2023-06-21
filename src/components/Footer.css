@@ -1,5 +1,5 @@
 .footer-bar {
-  position: absolute;
+  position: fixed;
   margin-top: 1rem;
   bottom: 0;
   width: 100%;

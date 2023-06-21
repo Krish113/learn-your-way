@@ -14,11 +14,11 @@
 
 .back-button {
   position: fixed;
-  height: 2rem;
-  width: 2rem;
+  font-size: 2.2rem;
+  color: var(--color-primary);
   top: 1rem;
   left: 1rem;
-  border: 1px solid black;
+  border: 1px solid var(--color-primary);
   border-radius: 2rem;
   z-index: 1;
   opacity: 0.3;
@@ -29,10 +29,4 @@
   border-color: var(--color-primary);
   cursor: pointer;
   opacity: 1;
-}
-
-.back-button-img {
-  height: 100%;
-  width: 100%;
-  cursor: pointer;
 }

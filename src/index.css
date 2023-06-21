@@ -19,6 +19,6 @@ code {
 :root {
   --color-primary: #0069e0;
   --color-primary-light: #c7e0fd;
-  --color-secondary: hsl(0deg 80% 50%);
-  --color-secondary-light: hsl(0deg 80% 50%);
+  --color-secondary: #f5c166;
+  --color-highlight: #e3e5e3;
 }

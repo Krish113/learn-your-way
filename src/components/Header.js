@@ -1,5 +1,4 @@
 import "./Header.css";
-import backButton from "../assets/vectors/left_arrow.svg";
 import { Link } from "react-router-dom";
 
 function Header({ showBackButton, headerText }) {
@@ -7,13 +6,9 @@ function Header({ showBackButton, headerText }) {
     <>
       {showBackButton && (
         <Link to="/">
-          <div id="back-button" className="back-button">
-            <img
-              src={backButton}
-              className="back-button-img"
-              alt="back-button"
-            />
-          </div>
+          <span className="material-symbols-outlined back-button">
+            arrow_back
+          </span>
         </Link>
       )}
       <div className="title-text">{headerText}</div>
