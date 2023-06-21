@@ -8,3 +8,10 @@
   border: 2px solid var(--color-primary-light);
   border-radius: 0.7rem 0;
 }
+
+@media only screen and (max-width: 991px) {
+  .course-name {
+    font-size: 1.2rem;
+    margin-bottom: 0.5rem;
+  }
+}
