@@ -1,131 +1,241 @@
 [
-    {
-        "slug": "beginning-accoustic-guitar",
-        "title": "Beginning Accoustic Guitar",
-        "desc": "Best course for learner to learn all aspect of accoustic guitar",
-        "thumbnail": "https://d1e3n3ct49jsgv.cloudfront.net/beginning-accoustic-guitar/beginning-accoustic-guitar.jpg",
-        "duration": 11100,
-        "contents": [
-            {
-                "slug": "welcome",
-                "title": "Welcome",
-                "url": "https://d1e3n3ct49jsgv.cloudfront.net/beginning-accoustic-guitar/01_01_welcome.mp4"
-            },
-            {
-                "slug": "getting-to-know-your-tools",
-                "title": "Getting to know your tools",
-                "url": "https://d1e3n3ct49jsgv.cloudfront.net/beginning-accoustic-guitar/02_01_getting-to-know-your-tools.mp4"
-            },
-            {
-                "slug": "tuning",
-                "title": "Tuning",
-                "url": "https://d1e3n3ct49jsgv.cloudfront.net/beginning-accoustic-guitar/02_02_tuning.mp4"
-            },
-            {
-                "slug": "notes-on-the-fretboard",
-                "title": "Notes on the fretboard",
-                "url": "https://d1e3n3ct49jsgv.cloudfront.net/beginning-accoustic-guitar/02_03_notes-on-the-fretboard.mp4"
-            },
-            {
-                "slug": "reading-tablature",
-                "title": "Reading tablature",
-                "url": "https://d1e3n3ct49jsgv.cloudfront.net/beginning-accoustic-guitar/02_04_reading-tablature.mp4"
-            },
-            {
-                "slug": "your-first-chords",
-                "title": "Your first chords",
-                "url": "https://d1e3n3ct49jsgv.cloudfront.net/beginning-accoustic-guitar/02_05_your-first-chords.mp4"
-            },
-            {
-                "slug": "strumming-a-song",
-                "title": "Strumming a song",
-                "url": "https://d1e3n3ct49jsgv.cloudfront.net/beginning-accoustic-guitar/02_06_strumming-a-song.mp4"
-            },
-            {
-                "slug": "awesome-tips-for-learning-and-switching-chords",
-                "title": "Awesome tips for switching chords",
-                "url": "https://d1e3n3ct49jsgv.cloudfront.net/beginning-accoustic-guitar/02_07_awesome-tips-for-learning-and-switching-chords.mp4"
-            },
-            {
-                "slug": "full-size-chords-d-a-and-g",
-                "title": "Full size chords D A and G",
-                "url": "https://d1e3n3ct49jsgv.cloudfront.net/beginning-accoustic-guitar/02_08_full-size-chords-d-a-and-g.mp4"
-            },
-            {
-                "slug": "full-size-chords-e-and-c",
-                "title": "Full size chords E and C",
-                "url": "https://d1e3n3ct49jsgv.cloudfront.net/beginning-accoustic-guitar/02_09_full-size-chords-e-and-c.mp4"
-            },
-            {
-                "slug": "the-notes-and-the-staff",
-                "title": "The notes and the staff",
-                "url": "https://d1e3n3ct49jsgv.cloudfront.net/beginning-accoustic-guitar/03_01_the-notes-and-the-staff.mp4"
-            },
-            {
-                "slug": "notes-on-the-1st-string",
-                "title": "Notes on the 1st string",
-                "url": "https://d1e3n3ct49jsgv.cloudfront.net/beginning-accoustic-guitar/03_02_notes-on-the-1st-string.mp4"
-            },
-            {
-                "slug": "notes-on-the-2nd-string",
-                "title": "Notes on the 2nd string",
-                "url": "https://d1e3n3ct49jsgv.cloudfront.net/beginning-accoustic-guitar/03_03_notes-on-the-2nd-string.mp4"
-            },
-            {
-                "slug": "time",
-                "title": "Time",
-                "url": "https://d1e3n3ct49jsgv.cloudfront.net/beginning-accoustic-guitar/03_04_time.mp4"
-            },
-            {
-                "slug": "notes-on-the-3rd-string",
-                "title": "Notes on the 3rd string",
-                "url": "https://d1e3n3ct49jsgv.cloudfront.net/beginning-accoustic-guitar/03_05_notes-on-the-3rd-string.mp4"
-            },
-            {
-                "slug": "rests",
-                "title": "Rests",
-                "url": "https://d1e3n3ct49jsgv.cloudfront.net/beginning-accoustic-guitar/03_06_rests.mp4"
-            },
-            {
-                "slug": "eighth-notes",
-                "title": "Eighth Notes",
-                "url": "https://d1e3n3ct49jsgv.cloudfront.net/beginning-accoustic-guitar/03_07_eighth-notes.mp4"
-            },
-            {
-                "slug": "notes-on-the-4th-string",
-                "title": "Notes on the 4th string",
-                "url": "https://d1e3n3ct49jsgv.cloudfront.net/beginning-accoustic-guitar/03_08_notes-on-the-4th-string.mp4"
-            },
-            {
-                "slug": "eighth-rests-and-dotted-notes",
-                "title": "Eighth rests and dotted notes",
-                "url": "https://d1e3n3ct49jsgv.cloudfront.net/beginning-accoustic-guitar/03_09_eighth-rests-and-dotted-notes.mp4"
-            },
-            {
-                "slug": "notes-on-the-5th-and-6th-strings",
-                "title": "Notes on the 5th and 6th strings",
-                "url": "https://d1e3n3ct49jsgv.cloudfront.net/beginning-accoustic-guitar/03_10_notes-on-the-5th-and-6th-strings.mp4"
-            },
-            {
-                "slug": "sight-reading-songs",
-                "title": "Sight reading songs",
-                "url": "https://d1e3n3ct49jsgv.cloudfront.net/beginning-accoustic-guitar/03_11_sight-reading-songs.mp4"
-            },
-            {
-                "slug": "adding-sharps-and-flats",
-                "title": "Adding shards and flats",
-                "url": "https://d1e3n3ct49jsgv.cloudfront.net/beginning-accoustic-guitar/03_12_adding-sharps-and-flats.mp4"
-            },
-            {
-                "slug": "reading-key-signatures",
-                "title": "Reading key signatures",
-                "url": "https://d1e3n3ct49jsgv.cloudfront.net/beginning-accoustic-guitar/03_13_reading-key-signatures.mp4"
-            },
-            {
-                "slug": "1st-and-2nd-endings",
-                "title": "1st and 2nd endings",
-                "url": "https://d1e3n3ct49jsgv.cloudfront.net/beginning-accoustic-guitar/03_14_1st-and-2nd-endings.mp4"
-            }
-        ]
-    }
+  {
+    "slug": "beginning-accoustic-guitar",
+    "title": "Beginning Accoustic Guitar",
+    "desc": "Best course for learner to learn all aspect of accoustic guitar",
+    "thumbnail": "https://d1e3n3ct49jsgv.cloudfront.net/beginning-accoustic-guitar/beginning-accoustic-guitar.jpg",
+    "duration": 11100,
+    "contents": [
+      {
+        "slug": "welcome",
+        "title": "Welcome",
+        "url": "https://d1e3n3ct49jsgv.cloudfront.net/beginning-accoustic-guitar/01_01_welcome.mp4"
+      },
+      {
+        "slug": "getting-to-know-your-tools",
+        "title": "Getting to know your tools",
+        "url": "https://d1e3n3ct49jsgv.cloudfront.net/beginning-accoustic-guitar/02_01_getting-to-know-your-tools.mp4"
+      },
+      {
+        "slug": "tuning",
+        "title": "Tuning",
+        "url": "https://d1e3n3ct49jsgv.cloudfront.net/beginning-accoustic-guitar/02_02_tuning.mp4"
+      },
+      {
+        "slug": "notes-on-the-fretboard",
+        "title": "Notes on the fretboard",
+        "url": "https://d1e3n3ct49jsgv.cloudfront.net/beginning-accoustic-guitar/02_03_notes-on-the-fretboard.mp4"
+      },
+      {
+        "slug": "reading-tablature",
+        "title": "Reading tablature",
+        "url": "https://d1e3n3ct49jsgv.cloudfront.net/beginning-accoustic-guitar/02_04_reading-tablature.mp4"
+      },
+      {
+        "slug": "your-first-chords",
+        "title": "Your first chords",
+        "url": "https://d1e3n3ct49jsgv.cloudfront.net/beginning-accoustic-guitar/02_05_your-first-chords.mp4"
+      },
+      {
+        "slug": "strumming-a-song",
+        "title": "Strumming a song",
+        "url": "https://d1e3n3ct49jsgv.cloudfront.net/beginning-accoustic-guitar/02_06_strumming-a-song.mp4"
+      },
+      {
+        "slug": "awesome-tips-for-learning-and-switching-chords",
+        "title": "Awesome tips for switching chords",
+        "url": "https://d1e3n3ct49jsgv.cloudfront.net/beginning-accoustic-guitar/02_07_awesome-tips-for-learning-and-switching-chords.mp4"
+      },
+      {
+        "slug": "full-size-chords-d-a-and-g",
+        "title": "Full size chords D A and G",
+        "url": "https://d1e3n3ct49jsgv.cloudfront.net/beginning-accoustic-guitar/02_08_full-size-chords-d-a-and-g.mp4"
+      },
+      {
+        "slug": "full-size-chords-e-and-c",
+        "title": "Full size chords E and C",
+        "url": "https://d1e3n3ct49jsgv.cloudfront.net/beginning-accoustic-guitar/02_09_full-size-chords-e-and-c.mp4"
+      },
+      {
+        "slug": "the-notes-and-the-staff",
+        "title": "The notes and the staff",
+        "url": "https://d1e3n3ct49jsgv.cloudfront.net/beginning-accoustic-guitar/03_01_the-notes-and-the-staff.mp4"
+      },
+      {
+        "slug": "notes-on-the-1st-string",
+        "title": "Notes on the 1st string",
+        "url": "https://d1e3n3ct49jsgv.cloudfront.net/beginning-accoustic-guitar/03_02_notes-on-the-1st-string.mp4"
+      },
+      {
+        "slug": "notes-on-the-2nd-string",
+        "title": "Notes on the 2nd string",
+        "url": "https://d1e3n3ct49jsgv.cloudfront.net/beginning-accoustic-guitar/03_03_notes-on-the-2nd-string.mp4"
+      },
+      {
+        "slug": "time",
+        "title": "Time",
+        "url": "https://d1e3n3ct49jsgv.cloudfront.net/beginning-accoustic-guitar/03_04_time.mp4"
+      },
+      {
+        "slug": "notes-on-the-3rd-string",
+        "title": "Notes on the 3rd string",
+        "url": "https://d1e3n3ct49jsgv.cloudfront.net/beginning-accoustic-guitar/03_05_notes-on-the-3rd-string.mp4"
+      },
+      {
+        "slug": "rests",
+        "title": "Rests",
+        "url": "https://d1e3n3ct49jsgv.cloudfront.net/beginning-accoustic-guitar/03_06_rests.mp4"
+      },
+      {
+        "slug": "eighth-notes",
+        "title": "Eighth Notes",
+        "url": "https://d1e3n3ct49jsgv.cloudfront.net/beginning-accoustic-guitar/03_07_eighth-notes.mp4"
+      },
+      {
+        "slug": "notes-on-the-4th-string",
+        "title": "Notes on the 4th string",
+        "url": "https://d1e3n3ct49jsgv.cloudfront.net/beginning-accoustic-guitar/03_08_notes-on-the-4th-string.mp4"
+      },
+      {
+        "slug": "eighth-rests-and-dotted-notes",
+        "title": "Eighth rests and dotted notes",
+        "url": "https://d1e3n3ct49jsgv.cloudfront.net/beginning-accoustic-guitar/03_09_eighth-rests-and-dotted-notes.mp4"
+      },
+      {
+        "slug": "notes-on-the-5th-and-6th-strings",
+        "title": "Notes on the 5th and 6th strings",
+        "url": "https://d1e3n3ct49jsgv.cloudfront.net/beginning-accoustic-guitar/03_10_notes-on-the-5th-and-6th-strings.mp4"
+      },
+      {
+        "slug": "sight-reading-songs",
+        "title": "Sight reading songs",
+        "url": "https://d1e3n3ct49jsgv.cloudfront.net/beginning-accoustic-guitar/03_11_sight-reading-songs.mp4"
+      },
+      {
+        "slug": "adding-sharps-and-flats",
+        "title": "Adding shards and flats",
+        "url": "https://d1e3n3ct49jsgv.cloudfront.net/beginning-accoustic-guitar/03_12_adding-sharps-and-flats.mp4"
+      },
+      {
+        "slug": "reading-key-signatures",
+        "title": "Reading key signatures",
+        "url": "https://d1e3n3ct49jsgv.cloudfront.net/beginning-accoustic-guitar/03_13_reading-key-signatures.mp4"
+      },
+      {
+        "slug": "1st-and-2nd-endings",
+        "title": "1st and 2nd endings",
+        "url": "https://d1e3n3ct49jsgv.cloudfront.net/beginning-accoustic-guitar/03_14_1st-and-2nd-endings.mp4"
+      },
+      {
+        "slug": "minor-chords",
+        "title": "Minor chords",
+        "url": "https://d1e3n3ct49jsgv.cloudfront.net/beginning-accoustic-guitar/04_01_minor-chords.mp4"
+      },
+      {
+        "slug": "bluegrass-g-chord-and-a-c-chord",
+        "title": "Bluegrass g chord and a c chord",
+        "url": "https://d1e3n3ct49jsgv.cloudfront.net/beginning-accoustic-guitar/04_02_bluegrass-g-chord-and-a-c-chord.mp4"
+      },
+      {
+        "slug": "the-art-of-strumming",
+        "title": "The art of strumming",
+        "url": "https://d1e3n3ct49jsgv.cloudfront.net/beginning-accoustic-guitar/04_03_the-art-of-strumming.mp4"
+      },
+      {
+        "slug": "country-and-bluegrass-strumming",
+        "title": "Country and bluegrass strumming",
+        "url": "https://d1e3n3ct49jsgv.cloudfront.net/beginning-accoustic-guitar/04_04_country-and-bluegrass-strumming.mp4"
+      },
+      {
+        "slug": "country-and-bluegrass-flatpicking",
+        "title": "Country and bluegrass flatpicking",
+        "url": "https://d1e3n3ct49jsgv.cloudfront.net/beginning-accoustic-guitar/04_05_country-and-bluegrass-flatpicking.mp4"
+      },
+      {
+        "slug": "rocking-out-with-syncopation",
+        "title": "Rocking out with syncopation",
+        "url": "https://d1e3n3ct49jsgv.cloudfront.net/beginning-accoustic-guitar/04_06_rocking-out-with-syncopation.mp4"
+      },
+      {
+        "slug": "cadd9",
+        "title": "Cadd9",
+        "url": "https://d1e3n3ct49jsgv.cloudfront.net/beginning-accoustic-guitar/04_07_cadd9.mp4"
+      },
+      {
+        "slug": "waltz-time",
+        "title": "Waltz time",
+        "url": "https://d1e3n3ct49jsgv.cloudfront.net/beginning-accoustic-guitar/04_08_waltz-time.mp4"
+      },
+      {
+        "slug": "the-right-hand-position",
+        "title": "The right hand position",
+        "url": "https://d1e3n3ct49jsgv.cloudfront.net/beginning-accoustic-guitar/05_01_the-right-hand-position.mp4"
+      },
+      {
+        "slug": "first-fingerpicking-patterns",
+        "title": "First fingerpicking patterns",
+        "url": "https://d1e3n3ct49jsgv.cloudfront.net/beginning-accoustic-guitar/05_02_first-fingerpicking-patterns.mp4"
+      },
+      {
+        "slug": "alternating-bass-patterns",
+        "title": "Alternating bass patterns",
+        "url": "https://d1e3n3ct49jsgv.cloudfront.net/beginning-accoustic-guitar/05_03_alternating-bass-patterns.mp4"
+      },
+      {
+        "slug": "travis-picking-and-pinch-patterns",
+        "title": "Travis picking and pinch patterns",
+        "url": "https://d1e3n3ct49jsgv.cloudfront.net/beginning-accoustic-guitar/05_04_travis-picking-and-pinch-patterns.mp4"
+      },
+      {
+        "slug": "fingerpicking-in-waltz-time",
+        "title": "Fingerpicking in waltz time",
+        "url": "https://d1e3n3ct49jsgv.cloudfront.net/beginning-accoustic-guitar/05_06_fingerpicking-in-waltz-time.mp4"
+      },
+      {
+        "slug": "improvisation-and-music-theory",
+        "title": "Improvisation and music theory",
+        "url": "https://d1e3n3ct49jsgv.cloudfront.net/beginning-accoustic-guitar/06_01_improvisation-and-music-theory.mp4"
+      },
+      {
+        "slug": "the-major-scale",
+        "title": "The major scale",
+        "url": "https://d1e3n3ct49jsgv.cloudfront.net/beginning-accoustic-guitar/06_02_the-major-scale.mp4"
+      },
+      {
+        "slug": "the-circle-of-5ths",
+        "title": "The circle of 5ths",
+        "url": "https://d1e3n3ct49jsgv.cloudfront.net/beginning-accoustic-guitar/06_03_the-circle-of-5ths.mp4"
+      },
+      {
+        "slug": "open-position-major-scales-in-c-g-and-d",
+        "title": "Open position major scales in c g and d",
+        "url": "https://d1e3n3ct49jsgv.cloudfront.net/beginning-accoustic-guitar/06_04_open-position-major-scales-in-c-g-and-d.mp4"
+      },
+      {
+        "slug": "movable-major-scale-fingerings",
+        "title": "Movable major scale fingerings",
+        "url": "https://d1e3n3ct49jsgv.cloudfront.net/beginning-accoustic-guitar/06_05_movable-major-scale-fingerings.mp4"
+      },
+      {
+        "slug": "intervals-are-your-building-blocks",
+        "title": "Intervals are your building blocks",
+        "url": "https://d1e3n3ct49jsgv.cloudfront.net/beginning-accoustic-guitar/06_06_intervals-are-your-building-blocks.mp4"
+      },
+      {
+        "slug": "interval-fingerings",
+        "title": "Interval fingerings",
+        "url": "https://d1e3n3ct49jsgv.cloudfront.net/beginning-accoustic-guitar/06_07_interval-fingerings.mp4"
+      },
+      {
+        "slug": "harmony-and-chords",
+        "title": "Harmony and chords",
+        "url": "https://d1e3n3ct49jsgv.cloudfront.net/beginning-accoustic-guitar/06_08_harmony-and-chords.mp4"
+      },
+      {
+        "slug": "getting-started-with-improvisation",
+        "title": "Getting started with improvisation",
+        "url": "https://d1e3n3ct49jsgv.cloudfront.net/beginning-accoustic-guitar/06_09_getting-started-with-improvisation.mp4"
+      }
+    ]
+  }
 ]
