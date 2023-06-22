@@ -1,5 +1,5 @@
 import { useState } from "react";
-import { useParams } from "react-router-dom";
+import { useParams, useNavigate } from "react-router-dom";
 import { Container, Row, Col } from "react-bootstrap";
 
 import "./Viewer.css";
@@ -23,13 +23,30 @@ const courseMap = courses.reduce((initial, current) => {
 }, {});
 
 function Viewer() {
-  let params = useParams();
+  const params = useParams();
+  const navigate = useNavigate();
   const courseSlug = params.course_slug;
   const course = courseMap[courseSlug];
+  const totalContents = course.contents.length;
   const contentToPlay = params.content_slug
     ? course.contentsMap[params.content_slug]
     : course.contents[0];
   const [currentContent, setCurrentContent] = useState(contentToPlay);
+
+  function playPrev() {
+    if (currentContent.index > 0) {
+      navigate(course.contents[currentContent.index - 1].slug);
+      setCurrentContent(course.contents[currentContent.index - 1]);
+    }
+  }
+
+  function playNext() {
+    if (currentContent.index < totalContents - 1) {
+      navigate(course.contents[currentContent.index + 1].slug);
+      setCurrentContent(course.contents[currentContent.index + 1]);
+    }
+  }
+
   return (
     <>
       <Container fluid>
@@ -40,7 +57,11 @@ function Viewer() {
         </Row>
         <Row className="justify-content-center">
           <Col xs={12} sm={12} md={12} lg={8} xl={8}>
-            <ContentPlayer content={currentContent} />
+            <ContentPlayer
+              content={currentContent}
+              playPrev={playPrev}
+              playNext={playNext}
+            />
           </Col>
           <Col xs={12} sm={12} md={12} lg={4} xl={4}>
             <ContentList

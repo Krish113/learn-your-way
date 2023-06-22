@@ -7,336 +7,403 @@
     "duration": 11100,
     "contents": [
       {
+        "index": 0,
         "slug": "welcome",
         "title": "Welcome",
         "url": "https://d1e3n3ct49jsgv.cloudfront.net/beginning-accoustic-guitar/01_01_welcome.mp4"
       },
       {
+        "index": 1,
         "slug": "getting-to-know-your-tools",
         "title": "Getting to know your tools",
         "url": "https://d1e3n3ct49jsgv.cloudfront.net/beginning-accoustic-guitar/02_01_getting-to-know-your-tools.mp4"
       },
       {
+        "index": 2,
         "slug": "tuning",
         "title": "Tuning",
         "url": "https://d1e3n3ct49jsgv.cloudfront.net/beginning-accoustic-guitar/02_02_tuning.mp4"
       },
       {
+        "index": 3,
         "slug": "notes-on-the-fretboard",
         "title": "Notes on the fretboard",
         "url": "https://d1e3n3ct49jsgv.cloudfront.net/beginning-accoustic-guitar/02_03_notes-on-the-fretboard.mp4"
       },
       {
+        "index": 4,
         "slug": "reading-tablature",
         "title": "Reading tablature",
         "url": "https://d1e3n3ct49jsgv.cloudfront.net/beginning-accoustic-guitar/02_04_reading-tablature.mp4"
       },
       {
+        "index": 5,
         "slug": "your-first-chords",
         "title": "Your first chords",
         "url": "https://d1e3n3ct49jsgv.cloudfront.net/beginning-accoustic-guitar/02_05_your-first-chords.mp4"
       },
       {
+        "index": 6,
         "slug": "strumming-a-song",
         "title": "Strumming a song",
         "url": "https://d1e3n3ct49jsgv.cloudfront.net/beginning-accoustic-guitar/02_06_strumming-a-song.mp4"
       },
       {
+        "index": 7,
         "slug": "awesome-tips-for-learning-and-switching-chords",
-        "title": "Awesome tips for switching chords",
+        "title": "Awesome tips for learning and switching chords",
         "url": "https://d1e3n3ct49jsgv.cloudfront.net/beginning-accoustic-guitar/02_07_awesome-tips-for-learning-and-switching-chords.mp4"
       },
       {
+        "index": 8,
         "slug": "full-size-chords-d-a-and-g",
         "title": "Full size chords D A and G",
         "url": "https://d1e3n3ct49jsgv.cloudfront.net/beginning-accoustic-guitar/02_08_full-size-chords-d-a-and-g.mp4"
       },
       {
+        "index": 9,
         "slug": "full-size-chords-e-and-c",
         "title": "Full size chords E and C",
         "url": "https://d1e3n3ct49jsgv.cloudfront.net/beginning-accoustic-guitar/02_09_full-size-chords-e-and-c.mp4"
       },
       {
+        "index": 10,
         "slug": "the-notes-and-the-staff",
         "title": "The notes and the staff",
         "url": "https://d1e3n3ct49jsgv.cloudfront.net/beginning-accoustic-guitar/03_01_the-notes-and-the-staff.mp4"
       },
       {
+        "index": 11,
         "slug": "notes-on-the-1st-string",
         "title": "Notes on the 1st string",
         "url": "https://d1e3n3ct49jsgv.cloudfront.net/beginning-accoustic-guitar/03_02_notes-on-the-1st-string.mp4"
       },
       {
+        "index": 12,
         "slug": "notes-on-the-2nd-string",
         "title": "Notes on the 2nd string",
         "url": "https://d1e3n3ct49jsgv.cloudfront.net/beginning-accoustic-guitar/03_03_notes-on-the-2nd-string.mp4"
       },
       {
+        "index": 13,
         "slug": "time",
         "title": "Time",
         "url": "https://d1e3n3ct49jsgv.cloudfront.net/beginning-accoustic-guitar/03_04_time.mp4"
       },
       {
+        "index": 14,
         "slug": "notes-on-the-3rd-string",
         "title": "Notes on the 3rd string",
         "url": "https://d1e3n3ct49jsgv.cloudfront.net/beginning-accoustic-guitar/03_05_notes-on-the-3rd-string.mp4"
       },
       {
+        "index": 15,
         "slug": "rests",
         "title": "Rests",
         "url": "https://d1e3n3ct49jsgv.cloudfront.net/beginning-accoustic-guitar/03_06_rests.mp4"
       },
       {
+        "index": 16,
         "slug": "eighth-notes",
-        "title": "Eighth Notes",
+        "title": "Eighth notes",
         "url": "https://d1e3n3ct49jsgv.cloudfront.net/beginning-accoustic-guitar/03_07_eighth-notes.mp4"
       },
       {
+        "index": 17,
         "slug": "notes-on-the-4th-string",
         "title": "Notes on the 4th string",
         "url": "https://d1e3n3ct49jsgv.cloudfront.net/beginning-accoustic-guitar/03_08_notes-on-the-4th-string.mp4"
       },
       {
+        "index": 18,
         "slug": "eighth-rests-and-dotted-notes",
         "title": "Eighth rests and dotted notes",
         "url": "https://d1e3n3ct49jsgv.cloudfront.net/beginning-accoustic-guitar/03_09_eighth-rests-and-dotted-notes.mp4"
       },
       {
+        "index": 19,
         "slug": "notes-on-the-5th-and-6th-strings",
         "title": "Notes on the 5th and 6th strings",
         "url": "https://d1e3n3ct49jsgv.cloudfront.net/beginning-accoustic-guitar/03_10_notes-on-the-5th-and-6th-strings.mp4"
       },
       {
+        "index": 20,
         "slug": "sight-reading-songs",
         "title": "Sight reading songs",
         "url": "https://d1e3n3ct49jsgv.cloudfront.net/beginning-accoustic-guitar/03_11_sight-reading-songs.mp4"
       },
       {
+        "index": 21,
         "slug": "adding-sharps-and-flats",
-        "title": "Adding shards and flats",
+        "title": "Adding sharps and flats",
         "url": "https://d1e3n3ct49jsgv.cloudfront.net/beginning-accoustic-guitar/03_12_adding-sharps-and-flats.mp4"
       },
       {
+        "index": 22,
         "slug": "reading-key-signatures",
         "title": "Reading key signatures",
         "url": "https://d1e3n3ct49jsgv.cloudfront.net/beginning-accoustic-guitar/03_13_reading-key-signatures.mp4"
       },
       {
+        "index": 23,
         "slug": "1st-and-2nd-endings",
         "title": "1st and 2nd endings",
         "url": "https://d1e3n3ct49jsgv.cloudfront.net/beginning-accoustic-guitar/03_14_1st-and-2nd-endings.mp4"
       },
       {
+        "index": 24,
         "slug": "minor-chords",
         "title": "Minor chords",
         "url": "https://d1e3n3ct49jsgv.cloudfront.net/beginning-accoustic-guitar/04_01_minor-chords.mp4"
       },
       {
+        "index": 25,
         "slug": "bluegrass-g-chord-and-a-c-chord",
         "title": "Bluegrass G chord and a C chord",
         "url": "https://d1e3n3ct49jsgv.cloudfront.net/beginning-accoustic-guitar/04_02_bluegrass-g-chord-and-a-c-chord.mp4"
       },
       {
+        "index": 26,
         "slug": "the-art-of-strumming",
         "title": "The art of strumming",
         "url": "https://d1e3n3ct49jsgv.cloudfront.net/beginning-accoustic-guitar/04_03_the-art-of-strumming.mp4"
       },
       {
+        "index": 27,
         "slug": "country-and-bluegrass-strumming",
         "title": "Country and bluegrass strumming",
         "url": "https://d1e3n3ct49jsgv.cloudfront.net/beginning-accoustic-guitar/04_04_country-and-bluegrass-strumming.mp4"
       },
       {
+        "index": 28,
         "slug": "country-and-bluegrass-flatpicking",
         "title": "Country and bluegrass flatpicking",
         "url": "https://d1e3n3ct49jsgv.cloudfront.net/beginning-accoustic-guitar/04_05_country-and-bluegrass-flatpicking.mp4"
       },
       {
+        "index": 29,
         "slug": "rocking-out-with-syncopation",
         "title": "Rocking out with syncopation",
         "url": "https://d1e3n3ct49jsgv.cloudfront.net/beginning-accoustic-guitar/04_06_rocking-out-with-syncopation.mp4"
       },
       {
+        "index": 30,
         "slug": "cadd9",
         "title": "Cadd9",
         "url": "https://d1e3n3ct49jsgv.cloudfront.net/beginning-accoustic-guitar/04_07_cadd9.mp4"
       },
       {
+        "index": 31,
         "slug": "waltz-time",
         "title": "Waltz time",
         "url": "https://d1e3n3ct49jsgv.cloudfront.net/beginning-accoustic-guitar/04_08_waltz-time.mp4"
       },
       {
+        "index": 32,
         "slug": "the-right-hand-position",
         "title": "The right hand position",
         "url": "https://d1e3n3ct49jsgv.cloudfront.net/beginning-accoustic-guitar/05_01_the-right-hand-position.mp4"
       },
       {
+        "index": 33,
         "slug": "first-fingerpicking-patterns",
         "title": "First fingerpicking patterns",
         "url": "https://d1e3n3ct49jsgv.cloudfront.net/beginning-accoustic-guitar/05_02_first-fingerpicking-patterns.mp4"
       },
       {
+        "index": 34,
         "slug": "alternating-bass-patterns",
         "title": "Alternating bass patterns",
         "url": "https://d1e3n3ct49jsgv.cloudfront.net/beginning-accoustic-guitar/05_03_alternating-bass-patterns.mp4"
       },
       {
+        "index": 35,
         "slug": "travis-picking-and-pinch-patterns",
         "title": "Travis picking and pinch patterns",
         "url": "https://d1e3n3ct49jsgv.cloudfront.net/beginning-accoustic-guitar/05_04_travis-picking-and-pinch-patterns.mp4"
       },
       {
+        "index": 36,
         "slug": "fingerpicking-in-waltz-time",
         "title": "Fingerpicking in waltz time",
         "url": "https://d1e3n3ct49jsgv.cloudfront.net/beginning-accoustic-guitar/05_06_fingerpicking-in-waltz-time.mp4"
       },
       {
+        "index": 37,
         "slug": "improvisation-and-music-theory",
         "title": "Improvisation and music theory",
         "url": "https://d1e3n3ct49jsgv.cloudfront.net/beginning-accoustic-guitar/06_01_improvisation-and-music-theory.mp4"
       },
       {
+        "index": 38,
         "slug": "the-major-scale",
         "title": "The major scale",
         "url": "https://d1e3n3ct49jsgv.cloudfront.net/beginning-accoustic-guitar/06_02_the-major-scale.mp4"
       },
       {
+        "index": 39,
         "slug": "the-circle-of-5ths",
         "title": "The circle of 5ths",
         "url": "https://d1e3n3ct49jsgv.cloudfront.net/beginning-accoustic-guitar/06_03_the-circle-of-5ths.mp4"
       },
       {
+        "index": 40,
         "slug": "open-position-major-scales-in-c-g-and-d",
         "title": "Open position major scales in C G and D",
         "url": "https://d1e3n3ct49jsgv.cloudfront.net/beginning-accoustic-guitar/06_04_open-position-major-scales-in-c-g-and-d.mp4"
       },
       {
+        "index": 41,
         "slug": "movable-major-scale-fingerings",
         "title": "Movable major scale fingerings",
         "url": "https://d1e3n3ct49jsgv.cloudfront.net/beginning-accoustic-guitar/06_05_movable-major-scale-fingerings.mp4"
       },
       {
+        "index": 42,
         "slug": "intervals-are-your-building-blocks",
         "title": "Intervals are your building blocks",
         "url": "https://d1e3n3ct49jsgv.cloudfront.net/beginning-accoustic-guitar/06_06_intervals-are-your-building-blocks.mp4"
       },
       {
+        "index": 43,
         "slug": "interval-fingerings",
         "title": "Interval fingerings",
         "url": "https://d1e3n3ct49jsgv.cloudfront.net/beginning-accoustic-guitar/06_07_interval-fingerings.mp4"
       },
       {
+        "index": 44,
         "slug": "harmony-and-chords",
         "title": "Harmony and chords",
         "url": "https://d1e3n3ct49jsgv.cloudfront.net/beginning-accoustic-guitar/06_08_harmony-and-chords.mp4"
       },
       {
+        "index": 45,
         "slug": "getting-started-with-improvisation",
         "title": "Getting started with improvisation",
         "url": "https://d1e3n3ct49jsgv.cloudfront.net/beginning-accoustic-guitar/06_09_getting-started-with-improvisation.mp4"
       },
       {
+        "index": 46,
         "slug": "the-12-bar-blues",
         "title": "The 12 bar blues",
         "url": "https://d1e3n3ct49jsgv.cloudfront.net/beginning-accoustic-guitar/07_01_the-12-bar-blues.mp4"
       },
       {
+        "index": 47,
         "slug": "blues-rhythm",
         "title": "Blues rhythm",
         "url": "https://d1e3n3ct49jsgv.cloudfront.net/beginning-accoustic-guitar/07_02_blues-rhythm.mp4"
       },
       {
+        "index": 48,
         "slug": "the-minor-pentatonic-scale",
         "title": "The minor pentatonic scale",
         "url": "https://d1e3n3ct49jsgv.cloudfront.net/beginning-accoustic-guitar/07_03_the-minor-pentatonic-scale.mp4"
       },
       {
+        "index": 49,
         "slug": "beginning-blues-improvisation",
         "title": "Beginning blues improvisation",
         "url": "https://d1e3n3ct49jsgv.cloudfront.net/beginning-accoustic-guitar/07_04_beginning-blues-improvisation.mp4"
       },
       {
+        "index": 50,
         "slug": "bending",
         "title": "Bending",
         "url": "https://d1e3n3ct49jsgv.cloudfront.net/beginning-accoustic-guitar/07_05_bending.mp4"
       },
       {
+        "index": 51,
         "slug": "new-chords-the-dominant-7th",
         "title": "New chords the dominant 7th",
         "url": "https://d1e3n3ct49jsgv.cloudfront.net/beginning-accoustic-guitar/07_06_new-chords-the-dominant-7th.mp4"
       },
       {
+        "index": 52,
         "slug": "more-7th-chords-blues-in-e",
         "title": "More 7th chords blues in E",
         "url": "https://d1e3n3ct49jsgv.cloudfront.net/beginning-accoustic-guitar/07_07_more-7th-chords-blues-in-e.mp4"
       },
       {
+        "index": 53,
         "slug": "minor-blues-and-minor-7th-chords",
         "title": "Minor blues and minor 7th chords",
         "url": "https://d1e3n3ct49jsgv.cloudfront.net/beginning-accoustic-guitar/07_08_minor-blues-and-minor-7th-chords.mp4"
       },
       {
+        "index": 54,
         "slug": "the-major-pentatonic-scale",
         "title": "The major pentatonic scale",
         "url": "https://d1e3n3ct49jsgv.cloudfront.net/beginning-accoustic-guitar/07_09_the-major-pentatonic-scale.mp4"
       },
       {
+        "index": 55,
         "slug": "switching-chords-mid-measure",
         "title": "Switching chords mid measure",
         "url": "https://d1e3n3ct49jsgv.cloudfront.net/beginning-accoustic-guitar/08_01_switching-chords-mid-measure.mp4"
       },
       {
+        "index": 56,
         "slug": "split-strumming",
         "title": "Split strumming",
         "url": "https://d1e3n3ct49jsgv.cloudfront.net/beginning-accoustic-guitar/08_02_split-strumming.mp4"
       },
       {
+        "index": 57,
         "slug": "the-mute-stroke",
         "title": "The mute stroke",
         "url": "https://d1e3n3ct49jsgv.cloudfront.net/beginning-accoustic-guitar/08_03_the-mute-stroke.mp4"
       },
       {
+        "index": 58,
         "slug": "a-new-folk-country-strum-and-i-v-vi-iv",
         "title": "A new folk country strum and I V vi IV",
         "url": "https://d1e3n3ct49jsgv.cloudfront.net/beginning-accoustic-guitar/08_04_a-new-folk-country-strum-and-i-v-vi-iv.mp4"
       },
       {
+        "index": 59,
         "slug": "transposition",
         "title": "Transposition",
         "url": "https://d1e3n3ct49jsgv.cloudfront.net/beginning-accoustic-guitar/08_05_transposition.mp4"
       },
       {
+        "index": 60,
         "slug": "power-chords",
         "title": "Power chords",
         "url": "https://d1e3n3ct49jsgv.cloudfront.net/beginning-accoustic-guitar/08_06_power-chords.mp4"
       },
       {
+        "index": 61,
         "slug": "barre-chords",
         "title": "Barre chords",
         "url": "https://d1e3n3ct49jsgv.cloudfront.net/beginning-accoustic-guitar/08_07_barre-chords.mp4"
       },
       {
+        "index": 62,
         "slug": "thumb-chords",
         "title": "Thumb chords",
         "url": "https://d1e3n3ct49jsgv.cloudfront.net/beginning-accoustic-guitar/08_08_thumb-chords.mp4"
       },
       {
+        "index": 63,
         "slug": "hammer-ons-and-pull-offs",
         "title": "Hammer ons and pull offs",
         "url": "https://d1e3n3ct49jsgv.cloudfront.net/beginning-accoustic-guitar/08_09_hammer-ons-and-pull-offs.mp4"
       },
       {
+        "index": 64,
         "slug": "walking-the-bass",
         "title": "Walking the bass",
         "url": "https://d1e3n3ct49jsgv.cloudfront.net/beginning-accoustic-guitar/08_10_walking-the-bass.mp4"
       },
       {
+        "index": 65,
         "slug": "musical-expression-phrasing-and-dynamics",
         "title": "Musical expression phrasing and dynamics",
         "url": "https://d1e3n3ct49jsgv.cloudfront.net/beginning-accoustic-guitar/09_01_musical-expression-phrasing-and-dynamics.mp4"
       },
       {
+        "index": 66,
         "slug": "goodbye",
         "title": "Goodbye",
         "url": "https://d1e3n3ct49jsgv.cloudfront.net/beginning-accoustic-guitar/10_01_goodbye.mp4"
